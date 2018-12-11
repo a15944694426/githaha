@@ -1,2 +1,2 @@
 # qp
-This is my first Git remote repo.gitecturgitectureqpiiie
+This is my first Git remote repo.
